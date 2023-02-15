@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
 👩‍💻 I’m Imesha Dilshani second-year Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.<br>🧠 I'm currently learning java and spring<br>👯 I’m looking to collaborate on<br>😄 Pronouns: she<br>⚡ Love to travel during my free time and also Love to watch movies and TV series.<br>📫 How to reach me: imeshadilshani212@gmail.com
 
 
