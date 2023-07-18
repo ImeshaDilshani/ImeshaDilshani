@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
 <h3 align="center">Still Learning Everything.....</h3>
 
+<img align="right" alt="codingGirl" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 👩‍💻 I’m Imesha Dilshani second-year Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.<br>🧠 I'm currently learning flutter and spring-boot<br>👯 I’m looking to collaborate on<br>😄 Pronouns: she<br>⚡ Love to travel during my free time and also Love to watch movies and TV series.<br>📫 How to reach me: imeshadilshani212@gmail.com
 <h3 align="left">Connect with me:</h3>
