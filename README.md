@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
-<h3 align="center">Still Learning Everything...</h3>
+<h2 align="center">Still Learning.....</h2>
 
 <img align="center" width="1000" alt="codingGirl"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
