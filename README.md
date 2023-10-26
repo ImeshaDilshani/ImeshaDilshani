@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
 <h2 align="center">Still Learning.....</h2>
 
-<img align="center" width="1000" alt="codingGirl"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
+<!-- Interactive GIF -->
+<p align="center">
+  <img width="750" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+</p>
 
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
 <br>🧠 I'm currently learning flutter and spring-boot
