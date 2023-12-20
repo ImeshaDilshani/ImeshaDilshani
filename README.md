@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
 <h2 align="center">Still Learning.....</h2>
-
 <!-- Interactive GIF -->
 <p align="center">
   <img width="750" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
-
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
 <br>🧠 I'm currently learning flutter and spring-boot
 <br>
@@ -36,6 +34,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
