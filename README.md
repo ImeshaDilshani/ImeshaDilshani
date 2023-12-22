@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
 <h2 align="center">Still Learning.....</h2>
+
+[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <!-- Interactive GIF -->
 <p align="center">
   <img width="750" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
@@ -13,6 +15,9 @@
 ⚡ Love to travel during my free time and also Love to watch movies and TV series.
 <br>
 📫 How to reach me: imeshadilshani212@gmail.com
+
+[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imeshadilshani3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imeshadilshani3" height="30" width="40" /></a>
