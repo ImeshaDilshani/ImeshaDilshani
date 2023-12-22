@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
 <h2 align="center">Still Learning.....</h2>
 
-[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <!-- Interactive GIF -->
 <p align="center">
   <img width="750" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
@@ -39,6 +38,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
