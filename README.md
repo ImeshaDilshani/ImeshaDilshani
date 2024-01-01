@@ -1,17 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
+<h1 align="center" >
+  Hi, I'm <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" target="_blank"> Imesha Dilshani 👋 </a>
+</h1>
 <h2 align="center">Still Learning.....</h2>
-
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="750" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+  <img width="40%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
-👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
-<br>🧠 I'm currently learning flutter and spring-boot
+Greetings! I'm Imesha Dilshani, a third-year student in computer science Specialized in Data Science. I'm currently pursuing a computer science at the University Of Kelaniya.
+
+<br>🧠 I'm currently learning Data Analytics.
 <br>
 👯 I’m looking to collaborate on
 <br>
-⚡ Love to travel during my free time and also Love to watch movies and TV series.
+⚡ Love to travel during my free time and watch movies and TV series.
 <br>
 📫 How to reach me: imeshadilshani212@gmail.com
 
