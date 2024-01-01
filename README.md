@@ -5,7 +5,7 @@
 <h2 align="center">Still Learning.....</h2>
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="40%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
 Greetings! I'm Imesha Dilshani, a third-year student in computer science Specialized in Data Science. I'm currently pursuing a computer science at the University Of Kelaniya.
 
