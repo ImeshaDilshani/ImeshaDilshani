@@ -13,7 +13,7 @@ Greetings! I'm Imesha Dilshani, a third-year student in computer science Special
 <br>
 👯 I’m looking to collaborate on
 <br>
-⚡ Love to travel during my free time and watch movies and TV series.
+⚡ Love to travel during my free time and watch movies.
 <br>
 📫 How to reach me: imeshadilshani212@gmail.com
 
