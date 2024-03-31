@@ -10,7 +10,7 @@
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
-Greetings! I'm Imesha Dilshani, a third-year student in computer science Specialized in Data Science. I'm currently pursuing a computer science at the University Of Kelaniya.
+Greetings! I'm Imesha Dilshani, a third-year student in computer science Specialized in Data Science at the University Of Kelaniya. As a computer science student, I would love to leverage my skills and knowledge to advance technology and solve practical problems. I'm looking for opportunities to collaborate, learn from industry professionals, or work with innovative technologies that can shape the future.
 
 <br>🧠 I'm currently learning Data Analytics.
 <br>
