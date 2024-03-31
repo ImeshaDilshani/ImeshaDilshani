@@ -3,7 +3,7 @@
   Hi, I'm <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" target="_blank"> Imesha Dilshani 👋 </a>
 </h1>
 
-![Yuppies Collage General LinkdIn Banner](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/cd539dff-e4b5-402e-8d0f-a4b96b639fb1)
+![linkdin-banner](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/7fda3d8d-6005-47ac-b9b7-862366a19791)
 
 <h2 align="center">Still Learning.....</h2>
 <!-- Interactive GIF -->
