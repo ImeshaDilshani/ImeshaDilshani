@@ -1,5 +1,5 @@
 
-<h1 >
+<h1 align="center" >
   Hi, I'm <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" target="_blank"> Imesha Dilshani 👋 </a>
 </h1>
 
