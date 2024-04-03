@@ -26,18 +26,17 @@ Greetings! I'm Imesha Dilshani, a third-year student in computer science Special
 
 | Topic                                    | Repository                                                                                           | Description                           |
 |------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------
-| Airline Reservation Management System    | [repository](https://github.com/ImeshaDilshani/Airline-Reservation-Management-System.git)            |                                       |
-| Customer-Churn-Analysis-Churn-Prediction | [repository](https://github.com/ImeshaDilshani/Customer-Churn-Analysis-Churn-Prediction.git)         |  predicting customer churn in a telecommunications company                                     |
-| weatherpro                               | [repository](https://github.com/ImeshaDilshani/weatherpro-django.git)                                |                                       |
-| flower-recognition                       | [repository](https://github.com/ImeshaDilshani/flower-recognition.git)                               |                                       |
-| PowerBI-Toy-Sales-Visualization          | [repository](https://github.com/ImeshaDilshani/PowerBI-Toy-Sales-Visualization.git)                  |                                       |
-| MeriSKILL-Internship-Sales-Data-Analysis | [repository](https://github.com/ImeshaDilshani/MeriSKILL-Internship-Sales-Data-Analysis.git)         |                                       |
-| Diabetes-Prediction-System               | [repository](https://github.com/ImeshaDilshani/MeriSKILL-Internship-Diabetes-Prediction-System.git)  |                                     |  
-| tasty-react                              | [repository](https://github.com/ImeshaDilshani/tasty-react.git)                                      | Restaurant website project
+| Airline Reservation Management System    | [repository](https://github.com/ImeshaDilshani/Airline-Reservation-Management-System.git)            | A web-based application that streamlines the process of flight booking and reservation management.                                    |
+| Customer-Churn-Analysis-Churn-Prediction | [repository](https://github.com/ImeshaDilshani/Customer-Churn-Analysis-Churn-Prediction.git)         | Predicting customer churn in a telecommunications company                         |
+| weatherpro                               | [repository](https://github.com/ImeshaDilshani/weatherpro-django.git)                                | Provides current weather information for a specific city, utilizing the Open Weather API.                                       |
+| PowerBI-Toy-Sales-Visualization          | [repository](https://github.com/ImeshaDilshani/PowerBI-Toy-Sales-Visualization.git)                  | Microsoft Power BI project for visualizing and analyzing toy sales data.           |
+| MeriSKILL-Internship-Sales-Data-Analysis | [repository](https://github.com/ImeshaDilshani/MeriSKILL-Internship-Sales-Data-Analysis.git)         | Sales data analysis project using Power BI.                                       |
+| Diabetes-Prediction-System               | [repository](https://github.com/ImeshaDilshani/MeriSKILL-Internship-Diabetes-Prediction-System.git)  | Predicts the likelihood of an individual having diabetes based on various health-related features.                                   |  
+| tasty-react                              | [repository](https://github.com/ImeshaDilshani/tasty-react.git)                                      | Restaurant website project.
 | spam-message-text-classification         | [repository](https://github.com/ImeshaDilshani/spam-message-text-classification.git)                 | Performs spam message text classification using a machine learning model.                |
 | Movie-Frontend-React                     | [repository](https://github.com/ImeshaDilshani/Movie-Frontend-React.git)                             | The website retrieves movie data from MongoDB and presents it to users in an intuitive interface.                |
 | news-app-react                           | [repository](https://github.com/ImeshaDilshani/news-app-react.git)                                   | Fetches news data from the NewsAPI.          |
-| titanic-predictor                        | [repository](https://github.com/ImeshaDilshani/CodeAlpha-titanic-predictor.git)                      | Aims to predict whether a passenger aboard the Titanic survived the sinking disaster or not       |
+| titanic-predictor                        | [repository](https://github.com/ImeshaDilshani/CodeAlpha-titanic-predictor.git)                      | Aims to predict whether a passenger aboard the Titanic survived the sinking disaster or not.      |
 
 
 <h3 align="left">Let's Get Connected</h3>
