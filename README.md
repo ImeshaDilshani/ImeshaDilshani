@@ -22,7 +22,7 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
 
 [![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-## 🧑‍💻 My Works
+## 👩‍💻 My Works
 
 | Topic                                    | Repository                                                                                           | Description                           |
 |------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------
@@ -39,7 +39,7 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
 | titanic-predictor                        | [repository](https://github.com/ImeshaDilshani/CodeAlpha-titanic-predictor.git)                      | Aims to predict whether a passenger aboard the Titanic survived the sinking disaster or not.      |
 
 
-<h3 align="left">Let's Get Connected</h3>
+<h3 align="left">🔗 Let's Get Connected</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Imeshadilshani) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Imeshadilshani) 
@@ -48,7 +48,7 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ImeshaDilshani3) 
 
 
-<h3 align="left">Skills and Tools</h3>
+<h3 align="left">💼 Skills and Tools</h3>
 <p align="center"> 
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
@@ -77,7 +77,7 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
   <img alt = "Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">📈 GitHub Stats</h3>
 
 <table>
   <tr> 
