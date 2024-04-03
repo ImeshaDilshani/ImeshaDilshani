@@ -18,7 +18,7 @@ Greetings! I'm Imesha Dilshani, a third-year student in computer science Special
 <br>
 ⚡ Love to travel during my free time and watch movies.
 <br>
-📫 How to reach me: imeshadilshani212@gmail.com
+📫 How to reach me: [linkedin](https://www.linkedin.com/in/imesha-dilshani-61862422b/)
 
 [![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
