@@ -48,6 +48,7 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ImeshaDilshani3) 
 
 
+<h3 align="left">Skills and Tools</h3>
 <p align="center"> 
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
