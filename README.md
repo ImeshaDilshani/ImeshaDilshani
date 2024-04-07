@@ -4,7 +4,9 @@
   
 </h1>
 
-![linkdin-banner](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/7fda3d8d-6005-47ac-b9b7-862366a19791)
+
+![linkdin-banner-02](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/56abf97e-e61f-4fc1-a0af-78072efede89)
+
 
 <h2 align="center"> Always try your hardest, even when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
 <!-- Interactive GIF -->
