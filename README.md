@@ -1,11 +1,12 @@
 
 <h1 align="center" >
   Hi, I'm <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" target="_blank"> Imesha Dilshani 👋 </a>
+  
 </h1>
 
 ![linkdin-banner](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/7fda3d8d-6005-47ac-b9b7-862366a19791)
 
-<h2 align="center"> Always try your hardest, even when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
+<h2 align="center"> MyAlways try your hardest, even when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
@@ -86,7 +87,11 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
   </tr>
 </table>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImeshaDilshani&theme=algolia&hide_border=false" alt="Imesha Dilshani" /></p>
+<p>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImeshaDilshani&theme=algolia&hide_border=false" alt="Imesha Dilshani" /> -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImeshaDilshani&theme=2077" alt="DATCH" />
+
+</p>
   </div>
 
 
