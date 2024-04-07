@@ -5,7 +5,7 @@
 
 ![linkdin-banner](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/7fda3d8d-6005-47ac-b9b7-862366a19791)
 
-<h2 align="center"> Always try your hardest, even when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
+<h2 align="center"> Always try your hardest, when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
