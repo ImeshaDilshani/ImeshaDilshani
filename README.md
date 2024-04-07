@@ -13,7 +13,7 @@
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
-Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with a focus on Data Science at the University Of Kelaniya. I'm really passionate about using my skills to make technology better and solve real-world problems. I'm eager to work with experts in the industry, learn from them, and explore new technologies that could change how we do things in the future. I'm open to opportunities to collaborate and grow in this field.
+Skilled Computer Science undergraduate with a background in Data Science and experience building software applications using Python, React and other languages. I'm eager to work with experts in the industry, learn from them, and explore new technologies that could change how we do things in the future. I'm open to opportunities to collaborate and grow in this field.
 
 <br>🧠 I'm currently learning Data Analytics.
 <br>
