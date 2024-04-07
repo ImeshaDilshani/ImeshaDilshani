@@ -80,19 +80,27 @@ Hello! I'm Imesha Dilshani, a third-year student studying Computer Science with 
 
 <h3 align="left">📈 GitHub Stats</h3>
 
-<table>
-  <tr> 
-<td><img src="https://github-readme-stats.vercel.app/api?username=ImeshaDilshani&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="Imesha Dilshani" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshaDilshani&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Imesha Dilshani"/></td>
-  </tr>
-</table>
 <div align="center">
 <p>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImeshaDilshani&theme=algolia&hide_border=false" alt="Imesha Dilshani" /> -->
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImeshaDilshani&theme=2077" alt="DATCH" />
 
 </p>
-  </div>
+</div>
+
+<table>
+  <tr> 
+<td><img src="https://github-readme-stats.vercel.app/api?username=ImeshaDilshani&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="Imesha Dilshani" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshaDilshani&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Imesha Dilshani"/></td>
+  </tr>
+</table>
+<!-- <div align="center"> -->
+<p>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImeshaDilshani&theme=algolia&hide_border=false" alt="Imesha Dilshani" /> -->
+<!--   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImeshaDilshani&theme=2077" alt="DATCH" />
+
+</p>
+  </div> -->
 
 
 ### 🔝 Top Contributed Repo
