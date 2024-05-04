@@ -8,12 +8,14 @@
 ![linkdin-banner-02](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/56abf97e-e61f-4fc1-a0af-78072efede89)
 
 
-<h2 align="center"> Always try your hardest, even when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
+<h2 align="centre"> Always try your hardest, even when things are difficult. Being happy comes from knowing you did your best That's what real success is all about. ✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
-Skilled Computer Science undergraduate with a background in Data Science and experience building software applications using Python, React and other languages. I'm eager to work with experts in the industry, learn from them, and explore new technologies that could change how we do things in the future. I'm open to opportunities to collaborate and grow in this field.
+Hi! I'm Imesha Dilshani, a computer science undergraduate with a background in Data Science who loves working with data, building software, and making things look great. I'm good at using tools like Python and Power BI to analyze information and find patterns and I love to build programs with Python, React, and other tools. I've also got an eye for design, so I can make computer programs look nice and easy to use.
+
+What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to help create new and exciting things in the tech world. I'm always looking for new challenges and ways to make a difference.
 
 <br>🧠 I'm currently learning Data Analytics.
 <br>
