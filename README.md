@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-  Hi, I'm <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" target="_blank"> Imesha Dilshani 👋 </a>
+  Hi, I'm <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" target="_blank"> Still Learnning 👋 </a>
   
 </h1>
 
@@ -15,7 +15,7 @@
 </p>
 
 Hi! I'm Imesha Dilshani, a computer science undergraduate with a background in Data Science who loves working with data, 
-building software, and making things look great.
+building software, and making things look great.😄
 
 - 😄 I'm Imesha, a Computer Science Undergraduate at the University of Kelaniya.
 - 👯 I’m looking to collaborate on Projects
