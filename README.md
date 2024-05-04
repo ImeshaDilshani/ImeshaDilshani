@@ -17,11 +17,12 @@
 Hi! I'm Imesha Dilshani, a computer science undergraduate at the University of Kelaniya with a background in Data Science who loves working with data, 
 building software, and making things look great.
 
-- 👯 I’m looking to collaborate on Projects
+- 👯 I’m looking to collaborate on community projects.
 - 🌱 I’m currently learning to react and Data Analytics.
 - ⚡ Love to travel during my free time and watch movies.
--  💬 Ask me about anything, I am happy to help :smile:
--  📫 How to reach me: [linkedin](https://www.linkedin.com/in/imesha-dilshani-61862422b/)
+- 😄 Pronouns: She
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/imesha-dilshani-61862422b/)
 
 What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to 
 help create new and exciting things in the tech world. I'm always looking for new challenges and ways to make a difference.
