@@ -14,10 +14,9 @@
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
 
-Hi! I'm Imesha Dilshani, a computer science undergraduate with a background in Data Science who loves working with data, 
-building software, and making things look great.😄
+Hi! I'm Imesha Dilshani, a computer science undergraduate at the University of Kelaniya with a background in Data Science who loves working with data, 
+building software, and making things look great.
 
-- 😄 I'm Imesha, a Computer Science Undergraduate at the University of Kelaniya.
 - 👯 I’m looking to collaborate on Projects
 - 🌱 I’m currently learning to react and Data Analytics.
 - ⚡ Love to travel during my free time and watch movies.
