@@ -15,21 +15,19 @@
 </p>
 
 Hi! I'm Imesha Dilshani, a computer science undergraduate with a background in Data Science who loves working with data, 
-building software, and making things look great. I'm good at using tools like Python and Power BI to analyze information 
-and find patterns and I love to build programs with Python, React, and other tools. I've also got an eye for design, 
-so I can make computer programs look nice and easy to use.
+building software, and making things look great.
+
+- 😄 I'm Imesha, a Computer Science Undergraduate at the University of Kelaniya.
+- 👯 I’m looking to collaborate on Projects
+- 🌱 I’m currently learning to react and Data Analytics.
+- ⚡ Love to travel during my free time and watch movies.
+-  💬 Ask me about anything, I am happy to help :smile:
+-  📫 How to reach me: [linkedin](https://www.linkedin.com/in/imesha-dilshani-61862422b/)
 
 What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to 
 help create new and exciting things in the tech world. I'm always looking for new challenges and ways to make a difference.
 
-<br>🧠 I'm currently learning Data Analytics.
 <br>
-👯 I’m looking to collaborate on
-<br>
-⚡ Love to travel during my free time and watch movies.
-<br>
-📫 How to reach me: [linkedin](https://www.linkedin.com/in/imesha-dilshani-61862422b/)
-
 [![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 ## 👩‍💻 My Works
