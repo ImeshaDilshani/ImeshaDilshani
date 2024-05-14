@@ -5,8 +5,6 @@
 </h1>
 
 
-![linkdin-banner-02](https://github.com/ImeshaDilshani/ImeshaDilshani/assets/93858302/56abf97e-e61f-4fc1-a0af-78072efede89)
-
 
 <h2 align="center"> Being happy comes from knowing you did your best. That's what real success is all about.Always try your hardest, even when things are difficult.✨ </h2>
 <!-- Interactive GIF -->
@@ -27,7 +25,7 @@ building software, and making things look great.
 What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to 
 help create new and exciting things in the tech world. I'm always looking for new challenges and ways to make a difference.
 
-<br>
+
 [![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 ## 👩‍💻 My Works
