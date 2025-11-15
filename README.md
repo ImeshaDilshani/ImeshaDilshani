@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Imesha Dilshani 👋</h1>
 
-<h3 align="center">Computer Science Undergraduate | Data Science Enthusiast | Software Developer</h3>
+<h3 align="center">Computer Science | Data Science Enthusiast | Software Developer</h3>
 
 <p align="center">
   <img width="50%" align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="coding">
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at the University of Kelaniya with a strong background in Data Science. I'm passionate about working with data, building software solutions, and creating meaningful digital experiences.
+I'm studying Computer Science at the University of Kelaniya with a strong background in Data Science. I'm passionate about working with data, building software solutions, and creating meaningful digital experiences.
 
 - 🔭 Currently learning React and Data Analytics
 - 👯 Open to collaborating on community and open-source projects
