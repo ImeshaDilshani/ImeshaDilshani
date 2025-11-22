@@ -3,22 +3,22 @@ Hi there👋, I'm a Developer focused on Data Science, AI/ML-Powered Software En
 > **My Life Motto:** *"Small Steps, Big Systems with Continuous Improvements."*  
 > I am committed to deep learning and applying best practices to master the field.
 
-## Core Expertise: Building Intelligent Systems
+#### Core Expertise: Building Intelligent Systems
 
 My work centers on the intersection of data, scalable infrastructure, and intelligent automation. While continuously growing, I focus on applying robust techniques to turn raw data into actionable insights and reliable applications.
 
-## Beyond Code
+#### Beyond Code
 
 I'm passionate about continuous growth through self-development and reading. I believe that learning extends beyond technical skills, and I regularly invest time in books and resources that enhance both personal and professional development.
 
-### Data Science & AI/ML
+#### Data Science & AI/ML
 
 | Area | Technologies | Focus |
 | :--- | :--- | :--- |
 | **Data Analysis & Modeling** | Python, R, Pandas, NumPy, Scikit-learn, Statistical Modeling | Clean, analyze, and interpret datasets to support data-informed projects. |
 | **Machine Learning** | TensorFlow, PyTorch, Keras, Deep Learning (CNNs, RNNs) | Design and implement foundational predictive models, focusing on practical application. |
 
-### Software & Mobile Engineering
+#### Software & Mobile Engineering
 
 | Area | Technologies | Focus |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ I'm passionate about continuous growth through self-development and reading. I b
 
 ---
 
-## How to Reach Me
+#### How to Reach Me
 
 **Website:** [www.imesha.dev](https://www.imesha.dev)  
 **Email:** hello@imesha.dev  
