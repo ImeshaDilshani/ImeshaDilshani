@@ -1,8 +1,4 @@
-<p align="center">
-  <i>A Developer focused on Data Science | AI/ML-Powered Software Engineering | Mobile Development</i>
-</p>
-
-# Hi, I'm Imesha Dilshani – Architecting Intelligence.
+Hi there👋, I'm a Developer focused on Data Science, AI/ML-Powered Software Engineering , Mobile Development.
 
 > **My Life Motto:** *"Small Steps, Big Systems with Continuous Improvements."*  
 > I am committed to deep learning and applying best practices to master the field.
