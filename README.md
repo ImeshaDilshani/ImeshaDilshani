@@ -7,11 +7,9 @@ Hi there👋, I'm a Developer focused on Data Science, AI/ML-Powered Software En
 
 My work centers on the intersection of data, scalable infrastructure, and intelligent automation. While continuously growing, I focus on applying robust techniques to turn raw data into actionable insights and reliable applications.
 
-#### Beyond Code
+I'm passionate solopreneur following continuous growth through self-development and reading. I believe that learning extends beyond technical skills, and I regularly invest time in books and resources that enhance both personal and professional development.
 
-I'm passionate about continuous growth through self-development and reading. I believe that learning extends beyond technical skills, and I regularly invest time in books and resources that enhance both personal and professional development.
-
-#### Data Science & AI/ML
+#### Data Science
 
 | Area | Technologies | Focus |
 | :--- | :--- | :--- |
@@ -31,7 +29,7 @@ I'm passionate about continuous growth through self-development and reading. I b
 
 **Website:** [www.imesha.dev](https://www.imesha.dev)  
 **Email:** hello@imesha.dev  
-**LinkedIn:** [Imesha Dilshani](https://www.linkedin.com/in/imesha-dilshani)
+**LinkedIn:** [Imesha Dilshani](https://www.linkedin.com/in/imesha-dilshani-61862422b/)
 
 I am always open to discussing new projects, collaboration opportunities, and sharing knowledge. Whether you're interested in data science, AI/ML applications, mobile development, or simply exchanging ideas on growth and learning, feel free to reach out.
 
