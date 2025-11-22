@@ -1,12 +1,8 @@
-# Hi, I'm Imesha Dilshani – Architecting Intelligence.
-
 <p align="center">
-  Bridging <b>Data Science</b>, scalable <b>Software Engineering</b>, and intuitive <b>Mobile Applications</b>. I build data-driven solutions that deliver user value.
+  <i>A Developer focused on Data Science | AI/ML-Powered Software Engineering | Mobile Development</i>
 </p>
 
-## Beyond Code
-
-I'm passionate about continuous growth through self-development and reading. I believe that learning extends beyond technical skills, and I regularly invest time in books and resources that enhance both personal and professional development.
+# Hi, I'm Imesha Dilshani – Architecting Intelligence.
 
 > **My Life Motto:** *"Small Steps, Big Systems with Continuous Improvements."*  
 > I am committed to deep learning and applying best practices to master the field.
@@ -14,6 +10,10 @@ I'm passionate about continuous growth through self-development and reading. I b
 ## Core Expertise: Building Intelligent Systems
 
 My work centers on the intersection of data, scalable infrastructure, and intelligent automation. While continuously growing, I focus on applying robust techniques to turn raw data into actionable insights and reliable applications.
+
+## Beyond Code
+
+I'm passionate about continuous growth through self-development and reading. I believe that learning extends beyond technical skills, and I regularly invest time in books and resources that enhance both personal and professional development.
 
 ### Data Science & AI/ML
 
